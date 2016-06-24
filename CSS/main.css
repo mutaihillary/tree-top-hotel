@@ -57,3 +57,18 @@ nav a:hover {
     padding: 0 30px;
     justify-content: center;
 }
+.wedding{
+width: 90%;
+    max-width: 960px;
+    padding: 0 30px;
+}
+.class{
+    width: 100%;
+    background-size: cover;
+}
+.discounts{
+    width: 90%;
+    max-width: 960px;
+    padding: 0 30px;
+    justify-content: center;
+}
